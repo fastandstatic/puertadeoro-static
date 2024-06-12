@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en Puerta de Oro	</title>
-	<atom:link href=".//comments/feed" rel="self" type="application/rss+xml" />
-	<link>.//</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Fri, 29 Dec 2023 13:41:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Comentario en Barranquilla 206 por Un comentarista de WordPress		</title>
-		<link>.//barranquilla-206#comment-1</link>
+		<link>./../barranquilla-206/index.html#comment-1</link>
 
 		<dc:creator><![CDATA[Un comentarista de WordPress]]></dc:creator>
 		<pubDate>Thu, 03 Aug 2023 14:11:46 +0000</pubDate>
