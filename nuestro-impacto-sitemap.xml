@@ -1,87 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="puertadeoro.org/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>puertadeoro.org/nuestro-impacto/reactivacion-agropecuaria-en-el-atlantico</loc>
+		<loc>/nuestro-impacto/reactivacion-agropecuaria-en-el-atlantico</loc>
 		<lastmod>2023-12-12T21:33:59+00:00</lastmod>
 		<image:image>
-			<image:loc>puertadeoro.org/wp-content/uploads/2023/12/Reactivacion-agropecuaria-en-el-Atlantico.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/Reactivacion-agropecuaria-en-el-Atlantico.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>puertadeoro.org/nuestro-impacto/concha-acustica-de-baranoa</loc>
+		<loc>/nuestro-impacto/concha-acustica-de-baranoa</loc>
 		<lastmod>2023-12-12T21:37:30+00:00</lastmod>
 		<image:image>
-			<image:loc>puertadeoro.org/wp-content/uploads/2023/12/Concha-acustica-de-Baranoa.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/Concha-acustica-de-Baranoa.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>puertadeoro.org/nuestro-impacto/asesoria-para-la-creacion-de-pmo-cartagena</loc>
+		<loc>/nuestro-impacto/asesoria-para-la-creacion-de-pmo-cartagena</loc>
 		<lastmod>2023-12-13T15:12:22+00:00</lastmod>
 		<image:image>
-			<image:loc>puertadeoro.org/wp-content/uploads/2023/12/Asesoria-para-la-creacion-de-PMO-Cartagena-2.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/Asesoria-para-la-creacion-de-PMO-Cartagena-2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>puertadeoro.org/nuestro-impacto/malecon-de-barrancabermeja</loc>
+		<loc>/nuestro-impacto/malecon-de-barrancabermeja</loc>
 		<lastmod>2023-12-26T14:28:32+00:00</lastmod>
 		<image:image>
-			<image:loc>puertadeoro.org/wp-content/uploads/2023/12/Malecon-de-Barrancabermeja1.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/Malecon-de-Barrancabermeja1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>puertadeoro.org/nuestro-impacto/malecon-cienaga-de-la-virgen</loc>
+		<loc>/nuestro-impacto/malecon-cienaga-de-la-virgen</loc>
 		<lastmod>2023-12-26T14:33:42+00:00</lastmod>
 		<image:image>
-			<image:loc>puertadeoro.org/wp-content/uploads/2023/12/Malecon-Cienaga-de-la-Virgen.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/Malecon-Cienaga-de-la-Virgen.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>puertadeoro.org/nuestro-impacto/fundacion-pintuco</loc>
+		<loc>/nuestro-impacto/fundacion-pintuco</loc>
 		<lastmod>2023-12-26T14:34:58+00:00</lastmod>
 		<image:image>
-			<image:loc>puertadeoro.org/wp-content/uploads/2023/12/Fundacion-Pintuco-2.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/Fundacion-Pintuco-2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>puertadeoro.org/nuestro-impacto/plazas-municipales</loc>
+		<loc>/nuestro-impacto/plazas-municipales</loc>
 		<lastmod>2023-12-26T14:51:22+00:00</lastmod>
 		<image:image>
-			<image:loc>puertadeoro.org/wp-content/uploads/2023/12/Plazas-municipales-2.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/Plazas-municipales-2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>puertadeoro.org/nuestro-impacto/turismo-del-atlantico</loc>
+		<loc>/nuestro-impacto/turismo-del-atlantico</loc>
 		<lastmod>2023-12-26T14:59:47+00:00</lastmod>
 		<image:image>
-			<image:loc>puertadeoro.org/wp-content/uploads/2023/12/Turismo-del-Atlantico.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/Turismo-del-Atlantico.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>puertadeoro.org/nuestro-impacto/camara-de-comercio-de-cucuta</loc>
+		<loc>/nuestro-impacto/camara-de-comercio-de-cucuta</loc>
 		<lastmod>2024-01-03T21:36:50+00:00</lastmod>
 		<image:image>
-			<image:loc>puertadeoro.org/wp-content/uploads/2023/12/Centro-de-eventos-Cucuta-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/Centro-de-eventos-Cucuta-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>puertadeoro.org/nuestro-impacto/alcaldia-de-riohacha</loc>
+		<loc>/nuestro-impacto/alcaldia-de-riohacha</loc>
 		<lastmod>2024-01-03T21:37:51+00:00</lastmod>
 		<image:image>
-			<image:loc>puertadeoro.org/wp-content/uploads/2023/12/Servicios-de-consultoria-Alcaldia-de-Riohacha-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/Servicios-de-consultoria-Alcaldia-de-Riohacha-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>puertadeoro.org/nuestro-impacto/universidad-del-atlantico-sabanalarga</loc>
+		<loc>/nuestro-impacto/universidad-del-atlantico-sabanalarga</loc>
 		<lastmod>2024-01-03T21:45:06+00:00</lastmod>
 		<image:image>
-			<image:loc>puertadeoro.org/wp-content/uploads/2023/12/Universidad-del-Atlantico-Sabanalarga-2.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/Universidad-del-Atlantico-Sabanalarga-2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>puertadeoro.org/nuestro-impacto/escenarios-deportivos-en-el-atlantico</loc>
+		<loc>/nuestro-impacto/escenarios-deportivos-en-el-atlantico</loc>
 		<lastmod>2024-01-03T21:49:47+00:00</lastmod>
 		<image:image>
-			<image:loc>puertadeoro.org/wp-content/uploads/2023/12/Escenarios-deportivos-en-el-Atlantico-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/Escenarios-deportivos-en-el-Atlantico-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

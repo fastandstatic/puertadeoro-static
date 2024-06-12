@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="puertadeoro.org/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>puertadeoro.org/noticias</loc>
+		<loc>/noticias</loc>
 		<lastmod>2024-05-15T16:28:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>puertadeoro.org/barranquilla-206</loc>
+		<loc>/barranquilla-206</loc>
 		<lastmod>2023-12-29T13:41:17+00:00</lastmod>
 		<image:image>
-			<image:loc>puertadeoro.org/wp-content/uploads/2023/08/Barranquilla206.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/08/Barranquilla206.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>puertadeoro.org/convocatoria-abiertajefe-de-control-interno</loc>
+		<loc>/convocatoria-abiertajefe-de-control-interno</loc>
 		<lastmod>2024-05-15T16:28:00+00:00</lastmod>
 		<image:image>
-			<image:loc>puertadeoro.org/wp-content/uploads/2023/08/Barranquilla206.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/08/Barranquilla206.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>puertadeoro.org/circular-de-proveedores</loc>
+		<loc>/circular-de-proveedores</loc>
 		<lastmod>2024-05-15T16:28:04+00:00</lastmod>
 		<image:image>
-			<image:loc>puertadeoro.org/wp-content/uploads/2023/08/puerta_de_oro.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/08/puerta_de_oro.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>puertadeoro.org/cierre-contable-y-financiero-2022</loc>
+		<loc>/cierre-contable-y-financiero-2022</loc>
 		<lastmod>2024-05-15T16:28:07+00:00</lastmod>
 		<image:image>
-			<image:loc>puertadeoro.org/wp-content/uploads/2023/08/puerta_de_oro.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/08/puerta_de_oro.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>puertadeoro.org/consulte-el-informe-financiero-a-junio-de-2023</loc>
+		<loc>/consulte-el-informe-financiero-a-junio-de-2023</loc>
 		<lastmod>2024-05-15T16:28:10+00:00</lastmod>
 		<image:image>
-			<image:loc>puertadeoro.org/wp-content/uploads/2023/08/puerta_de_oro.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/08/puerta_de_oro.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
