@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Barranquilla 206	</title>
-	<atom:link href=".//barranquilla-206/feed/" rel="self" type="application/rss+xml" />
-	<link>.//barranquilla-206/</link>
+	<atom:link href=".//barranquilla-206/feed" rel="self" type="application/rss+xml" />
+	<link>.//barranquilla-206</link>
 	<description></description>
 	<lastBuildDate>Fri, 29 Dec 2023 13:41:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Por: Un comentarista de WordPress		</title>
-		<link>.//barranquilla-206/#comment-1</link>
+		<link>.//barranquilla-206#comment-1</link>
 
 		<dc:creator><![CDATA[Un comentarista de WordPress]]></dc:creator>
 		<pubDate>Thu, 03 Aug 2023 14:11:46 +0000</pubDate>
