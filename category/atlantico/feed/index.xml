@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Atlántico Archives - Puerta de Oro</title>
-	<atom:link href="//category/atlantico/feed" rel="self" type="application/rss+xml" />
-	<link>//category/atlantico</link>
+	<atom:link href="puertadeoro.org//category/atlantico/feed" rel="self" type="application/rss+xml" />
+	<link>puertadeoro.org//category/atlantico</link>
 	<description></description>
 	<lastBuildDate>Tue, 11 Jun 2024 16:55:38 +0000</lastBuildDate>
 	<language>es</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 
 <image>
-	<url>//wp-content/uploads/2024/06/FAVI-PDO-150x150.png</url>
+	<url>puertadeoro.org//wp-content/uploads/2024/06/FAVI-PDO-150x150.png</url>
 	<title>Atlántico Archives - Puerta de Oro</title>
-	<link>//category/atlantico</link>
+	<link>puertadeoro.org//category/atlantico</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
