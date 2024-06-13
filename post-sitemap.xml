@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/noticias</loc>
-		<lastmod>2024-05-15T16:28:10+00:00</lastmod>
+		<lastmod>2024-06-13T14:39:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/barranquilla-206</loc>
@@ -19,13 +19,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/circular-de-proveedores</loc>
-		<lastmod>2024-05-15T16:28:04+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/puerta_de_oro.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/cierre-contable-y-financiero-2022</loc>
 		<lastmod>2024-05-15T16:28:07+00:00</lastmod>
 		<image:image>
@@ -35,6 +28,13 @@
 	<url>
 		<loc>/consulte-el-informe-financiero-a-junio-de-2023</loc>
 		<lastmod>2024-05-15T16:28:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/puerta_de_oro.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/circular-de-proveedores</loc>
+		<lastmod>2024-06-13T14:39:46+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/puerta_de_oro.jpg</image:loc>
 		</image:image>
