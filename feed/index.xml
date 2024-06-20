@@ -12,7 +12,7 @@
 	<atom:link href="/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 14 Jun 2024 22:25:10 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Jun 2024 16:26:36 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,12 +28,69 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Estados Financieros a corte 31 de diciembre de 2023</title>
+		<link>/estados-financieros-a-corte-31-de-diciembre-de-2023</link>
+					<comments>/estados-financieros-a-corte-31-de-diciembre-de-2023#respond</comments>
+		
+		<dc:creator><![CDATA[Administrador Puerta de oro]]></dc:creator>
+		<pubDate>Mon, 04 Mar 2024 09:44:49 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">/?p=3594</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3594" class="elementor elementor-3594" data-elementor-post-type="post">
+				<div class="elementor-element elementor-element-7be039b e-flex e-con-boxed e-con e-parent" data-id="7be039b" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3841e70 elementor-widget elementor-widget-text-editor" data-id="3841e70" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.21.0 - 26-05-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><a href="/wp-content/uploads/2024/06/ESTADOS-FINANCIEROS-Y-NOTAS-DIC-2023-2022.pdf" class="pdfemb-viewer" style="" data-width="max" data-height="max" data-toolbar="bottom" data-toolbar-fixed="off">ESTADOS FINANCIEROS Y NOTAS DIC 2023-2022</a></p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/estados-financieros-a-corte-31-de-diciembre-de-2023/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Divulgación Programa de Ética y Sagrilaft</title>
+		<link>/divulgacion-programas-de-etica-y-sagrilaft</link>
+					<comments>/divulgacion-programas-de-etica-y-sagrilaft#respond</comments>
+		
+		<dc:creator><![CDATA[Administrador Puerta de oro]]></dc:creator>
+		<pubDate>Thu, 25 Jan 2024 11:30:11 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">/?p=3600</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3600" class="elementor elementor-3600" data-elementor-post-type="post">
+				<div class="elementor-element elementor-element-4970957 e-flex e-con-boxed e-con e-parent" data-id="4970957" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5d27d01 elementor-widget elementor-widget-text-editor" data-id="5d27d01" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="/wp-content/uploads/2024/06/Divulgacion-Implementacion-programa-de-PTEE-y-SAGRILAFT-vr-final.pdf" class="pdfemb-viewer" style="" data-width="max" data-height="max" data-toolbar="bottom" data-toolbar-fixed="off">Divulgación Implementación programa de PTEE y SAGRILAFT vr final</a></p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/divulgacion-programas-de-etica-y-sagrilaft/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Circular de proveedores 2024</title>
 		<link>/circular-de-proveedores</link>
 					<comments>/circular-de-proveedores#respond</comments>
 		
 		<dc:creator><![CDATA[design@e-me.co]]></dc:creator>
-		<pubDate>Fri, 14 Jun 2024 16:28:13 +0000</pubDate>
+		<pubDate>Fri, 05 Jan 2024 10:28:13 +0000</pubDate>
 				<category><![CDATA[Sin categoría]]></category>
 		<guid isPermaLink="false">/?p=102</guid>
 
