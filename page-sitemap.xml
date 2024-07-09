@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-05-29T16:47:10+00:00</lastmod>
+		<lastmod>2024-07-04T15:24:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-126-qovqmoj2nac06xgnyg1djrq0sbv4gy25tzcbxno8zg.png</image:loc>
 		</image:image>
@@ -31,55 +31,8 @@
 		<lastmod>2024-01-03T21:02:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/nosotros</loc>
-		<lastmod>2024-01-03T21:12:28+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-131.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-133.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-132.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-134.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-135.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Copia-de-DJI_0750.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Linea-47.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-126-qaf69gd02mxcouwzydjwqntuhpqw28iimjhd7oqkjg.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-127-qaf69ff5vsw2d8yd3v5a662dwbviujesaetvqerypo.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-128-qaf69gd02mxcouwzydjwqntuhpqw28iimjhd7oqkjg.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-126-qaf69gd02mxcouwzydjwqntuhpqw28iimjhd7oqkjg.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-127-qaf69ff5in94vui8s6vxjcevl4m190g2ivgbvzmspc.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-128-qaf69gczphaf7ggvmpak3u6c6ihegpjsv03td9lej4.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/proyectos</loc>
 		<lastmod>2024-01-03T21:53:11+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/contratacion</loc>
-		<lastmod>2024-01-03T22:14:25+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/todos-al-parque</loc>
@@ -319,20 +272,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/5-tramites</loc>
-		<lastmod>2024-04-09T20:48:57+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/7-datos-abiertos</loc>
-		<lastmod>2024-04-09T20:49:53+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/planeacion</loc>
 		<lastmod>2024-04-16T13:37:11+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/8-control-interno</loc>
-		<lastmod>2024-04-29T19:22:07+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/gerencia-de-activos-y-proyectos-especiales</loc>
@@ -367,14 +308,6 @@
 		<lastmod>2024-05-15T19:41:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/6-participa</loc>
-		<lastmod>2024-06-13T15:59:02+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/3-contratacion</loc>
-		<lastmod>2024-06-13T16:30:28+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/crear-proveedor</loc>
 		<lastmod>2024-06-13T17:08:20+00:00</lastmod>
 	</url>
@@ -383,12 +316,54 @@
 		<lastmod>2024-06-19T19:12:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/4-planeacion-presupuesto-e-informes</loc>
-		<lastmod>2024-06-20T20:15:55+00:00</lastmod>
+		<loc>/nosotros</loc>
+		<lastmod>2024-07-04T15:35:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-131.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-133.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-132.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-134.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-135.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Copia-de-DJI_0750.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/puerta_de_oro.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Linea-47.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-126-qovqmoj2nac06xgnyg1djrq0sbv4gy25tzcbxno8zg.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-127-qovqmoj2nac06xgnyg1djrq0sbv4gy25tzcbxno8zg.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-128-qovqmoj2nac06xgnyg1djrq0sbv4gy25tzcbxno8zg.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-126-qovqmoj2nac06xgnyg1djrq0sbv4gy25tzcbxno8zg.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-127-qovqmoj2a4p2pj0jmrs0wy2ih4lmvf3g2fys38j2z4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-128-qovqmoj2a4p2pj0jmrs0wy2ih4lmvf3g2fys38j2z4.png</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/1-informacion-de-la-entidad</loc>
-		<lastmod>2024-06-25T13:34:23+00:00</lastmod>
+		<lastmod>2024-07-04T19:10:23+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/06/Estructura-Organizativa-Dependencias-06-2024-IV-1.png</image:loc>
 		</image:image>
@@ -446,7 +421,35 @@
 	</url>
 	<url>
 		<loc>/2-normativa</loc>
-		<lastmod>2024-06-25T14:00:28+00:00</lastmod>
+		<lastmod>2024-07-04T19:37:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/4-planeacion-presupuesto-e-informes</loc>
+		<lastmod>2024-07-04T19:37:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/5-tramites</loc>
+		<lastmod>2024-07-04T19:37:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/6-participa</loc>
+		<lastmod>2024-07-04T19:38:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/7-datos-abiertos</loc>
+		<lastmod>2024-07-04T19:38:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/8-control-interno</loc>
+		<lastmod>2024-07-04T19:42:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/3-contratacion</loc>
+		<lastmod>2024-07-09T13:54:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/contratacion</loc>
+		<lastmod>2024-07-09T13:55:42+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
