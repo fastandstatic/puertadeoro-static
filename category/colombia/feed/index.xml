@@ -12,7 +12,7 @@
 	<atom:link href="/category/colombia/feed" rel="self" type="application/rss+xml" />
 	<link>/category/colombia</link>
 	<description></description>
-	<lastBuildDate>Thu, 29 Aug 2024 22:28:02 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Sep 2024 22:07:13 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/06/FAVI-PDO-150x150.png</url>
+	<url>https://puertadeoro-recursos-pagina-web.s3.amazonaws.com/wp-content/uploads/2024/06/12134058/FAVI-PDO-150x150.png</url>
 	<title>Colombia Archives - Puerta de Oro</title>
 	<link>/category/colombia</link>
 	<width>32</width>
