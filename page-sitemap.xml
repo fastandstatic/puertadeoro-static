@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-09-05T22:07:13+00:00</lastmod>
+		<lastmod>2024-11-29T19:32:32+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-126.png</image:loc>
 		</image:image>
@@ -29,20 +29,6 @@
 	<url>
 		<loc>/asociados</loc>
 		<lastmod>2024-01-03T21:02:19+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/proyectos</loc>
-		<lastmod>2024-01-03T21:53:11+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/todos-al-parque</loc>
-		<lastmod>2024-01-04T14:13:31+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Todos-al-Parque-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Todos-al-Parque-2.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/siembra</loc>
@@ -87,23 +73,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/pista-de-ciclomontanismo</loc>
-		<lastmod>2024-01-04T14:27:17+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/ciclomontanismo.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/2-ciclismo.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/plan-maestro-de-mercados</loc>
-		<lastmod>2024-01-04T14:35:21+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/mercados.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/puerta-de-oro</loc>
 		<lastmod>2024-01-04T14:36:04+00:00</lastmod>
 		<image:image>
@@ -130,13 +99,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/GM-6.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/ecoparque-df-uf1-cienaga-de-mallorquin</loc>
-		<lastmod>2024-01-04T14:43:58+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/mallorquin.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -168,34 +130,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/centro.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/biodiversidad</loc>
-		<lastmod>2024-01-04T15:02:47+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/DJI_0177.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/DJI_-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/bogale-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/bogale-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/biogale2-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/biogale1-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/biogale1-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/biogale2-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -259,19 +193,6 @@
 		<lastmod>2024-01-04T15:52:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/canalizacion-de-arroyos</loc>
-		<lastmod>2024-01-04T20:59:06+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Arroyos.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/arroyo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/arroyo-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/planeacion</loc>
 		<lastmod>2024-04-16T13:37:11+00:00</lastmod>
 	</url>
@@ -312,12 +233,181 @@
 		<lastmod>2024-06-13T17:08:20+00:00</lastmod>
 	</url>
 	<url>
+		<loc>/contratacion</loc>
+		<lastmod>2024-07-09T13:55:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/pista-de-ciclomontanismo</loc>
+		<lastmod>2024-11-26T19:50:39+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/ciclomontanismo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/2-ciclismo.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/canalizacion-de-arroyos</loc>
+		<lastmod>2024-11-27T15:18:01+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Arroyos.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/arroyo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/arroyo-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/todos-al-parque</loc>
+		<lastmod>2024-11-27T15:34:27+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Todos-al-Parque-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Todos-al-Parque-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/plan-maestro-de-mercados</loc>
+		<lastmod>2024-11-27T15:50:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/mercados.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/ecoparque-df-uf1-cienaga-de-mallorquin</loc>
+		<lastmod>2024-11-27T15:58:40+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/mallorquin.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/proyectos</loc>
+		<lastmod>2024-11-27T15:59:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/biodiversidad</loc>
+		<lastmod>2024-11-27T16:40:03+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/DJI_0177.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/DJI_-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/bogale-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/bogale-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/biogale2-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/biogale1-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/galeria-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/galeria-2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/1-informacion-de-la-entidad</loc>
+		<lastmod>2024-11-28T16:56:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Estructura-Organizativa-Dependencias-06-2024-IV-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Grupo-1000.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-127-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-128.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-126-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Estructura-Organizativa-Dependencias-06-2024-IV-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Grupo-1000.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-127-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-128.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-126-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/2-normativa</loc>
+		<lastmod>2024-11-28T17:00:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/3-contratacion</loc>
+		<lastmod>2024-11-28T17:01:23+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/5-tramites</loc>
+		<lastmod>2024-11-28T17:04:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/4-planeacion-presupuesto-e-informes</loc>
+		<lastmod>2024-11-28T17:04:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/6-participa</loc>
+		<lastmod>2024-11-28T17:06:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/7-datos-abiertos</loc>
+		<lastmod>2024-11-28T17:09:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/8-control-interno</loc>
+		<lastmod>2024-11-28T17:10:39+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/servicios</loc>
-		<lastmod>2024-06-19T19:12:34+00:00</lastmod>
+		<lastmod>2024-11-29T19:34:11+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/nosotros</loc>
-		<lastmod>2024-07-04T15:35:32+00:00</lastmod>
+		<lastmod>2024-11-29T19:38:49+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-131.svg</image:loc>
 		</image:image>
@@ -343,112 +433,22 @@
 			<image:loc>/wp-content/uploads/2023/08/Linea-47.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-126-qovqmoj2nac06xgnyg1djrq0sbv4gy25tzcbxno8zg.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-126.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-127-qovqmoj2nac06xgnyg1djrq0sbv4gy25tzcbxno8zg.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-127.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-128-qovqmoj2nac06xgnyg1djrq0sbv4gy25tzcbxno8zg.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-128.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-126-qovqmoj2nac06xgnyg1djrq0sbv4gy25tzcbxno8zg.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-126.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-127-qovqmoj2a4p2pj0jmrs0wy2ih4lmvf3g2fys38j2z4.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-127.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-128-qovqmoj2a4p2pj0jmrs0wy2ih4lmvf3g2fys38j2z4.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/2-normativa</loc>
-		<lastmod>2024-07-04T19:37:11+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/5-tramites</loc>
-		<lastmod>2024-07-04T19:37:57+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/6-participa</loc>
-		<lastmod>2024-07-04T19:38:35+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/7-datos-abiertos</loc>
-		<lastmod>2024-07-04T19:38:54+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/8-control-interno</loc>
-		<lastmod>2024-07-04T19:42:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/3-contratacion</loc>
-		<lastmod>2024-07-09T13:54:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/contratacion</loc>
-		<lastmod>2024-07-09T13:55:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/4-planeacion-presupuesto-e-informes</loc>
-		<lastmod>2024-08-09T20:47:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/1-informacion-de-la-entidad</loc>
-		<lastmod>2024-08-29T22:28:02+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/Estructura-Organizativa-Dependencias-06-2024-IV-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Grupo-1000.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-127-1-qovqmoj3hzfsxr5f1gltfpeucxgnpidm5s2g5rfesc.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-128-qovqmoj3hzfsxr5f1gltfpeucxgnpidm5s2g5rfesc.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-126-1-qovqmoj3hzfsxr5f1gltfpeucxgnpidm5s2g5rfesc.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/Estructura-Organizativa-Dependencias-06-2024-IV-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Grupo-1000.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-127-1-qovqmoj3hzfsxr5f1gltfpeucxgnpidm5s2g5rfesc.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-128-qovqmoj3hzfsxr5f1gltfpeucxgnpidm5s2g5rfesc.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Enmascarar-grupo-126-1-qovqmoj3hzfsxr5f1gltfpeucxgnpidm5s2g5rfesc.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-3.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-128.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
