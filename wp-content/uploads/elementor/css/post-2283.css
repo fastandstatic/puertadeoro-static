@@ -8,46 +8,4 @@
 					.elementor-2283 .elementor-element.elementor-element-03b9c21 .elementor-nav-menu--dropdown a.highlighted,
 					.elementor-2283 .elementor-element.elementor-element-03b9c21 .elementor-menu-toggle:hover{color:#FFFFFF;}.elementor-2283 .elementor-element.elementor-element-03b9c21 .elementor-nav-menu--dropdown a:hover,
 					.elementor-2283 .elementor-element.elementor-element-03b9c21 .elementor-nav-menu--dropdown a.elementor-item-active,
-					.elementor-2283 .elementor-element.elementor-element-03b9c21 .elementor-nav-menu--dropdown a.highlighted{background-color:var( --e-global-color-primary );}.elementor-2283 .elementor-element.elementor-element-03b9c21 .elementor-nav-menu--dropdown .elementor-item, .elementor-2283 .elementor-element.elementor-element-03b9c21 .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:"Gilroy", Sans-serif;font-weight:bold;}#elementor-popup-modal-2283 .dialog-widget-content{animation-duration:1.2s;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}#elementor-popup-modal-2283{background-color:rgba(0,0,0,.8);justify-content:flex-start;align-items:center;pointer-events:all;}#elementor-popup-modal-2283 .dialog-message{width:300px;height:100vh;align-items:flex-start;}#elementor-popup-modal-2283 .dialog-close-button{display:flex;}@media(max-width:767px){.elementor-2283 .elementor-element.elementor-element-03b9c21 .elementor-nav-menu--dropdown .elementor-item, .elementor-2283 .elementor-element.elementor-element-03b9c21 .elementor-nav-menu--dropdown  .elementor-sub-item{font-size:15px;}}/* Start Custom Fonts CSS */@font-face {
-	font-family: 'Gilroy';
-	font-style: normal;
-	font-weight: normal;
-	font-display: auto;
-	src: url('/wp-content/uploads/2023/08/Gilroy-Regular.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'Gilroy';
-	font-style: normal;
-	font-weight: bold;
-	font-display: auto;
-	src: url('/wp-content/uploads/2023/08/Gilroy-Bold.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'Gilroy';
-	font-style: normal;
-	font-weight: 600;
-	font-display: auto;
-	src: url('/wp-content/uploads/2023/08/Gilroy-Semibold.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'Gilroy';
-	font-style: normal;
-	font-weight: 500;
-	font-display: auto;
-	src: url('/wp-content/uploads/2023/08/Gilroy-Medium.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'Gilroy';
-	font-style: normal;
-	font-weight: 300;
-	font-display: auto;
-	src: url('/wp-content/uploads/2023/08/Gilroy-Light.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'Gilroy';
-	font-style: normal;
-	font-weight: 800;
-	font-display: auto;
-	src: url('/wp-content/uploads/2023/08/Gilroy-Extrabold.ttf') format('truetype');
-}
-/* End Custom Fonts CSS */
+					.elementor-2283 .elementor-element.elementor-element-03b9c21 .elementor-nav-menu--dropdown a.highlighted{background-color:var( --e-global-color-primary );}.elementor-2283 .elementor-element.elementor-element-03b9c21 .elementor-nav-menu--dropdown .elementor-item, .elementor-2283 .elementor-element.elementor-element-03b9c21 .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:"Gilroy", Sans-serif;font-weight:bold;}#elementor-popup-modal-2283 .dialog-widget-content{animation-duration:1.2s;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}#elementor-popup-modal-2283{background-color:rgba(0,0,0,.8);justify-content:flex-start;align-items:center;pointer-events:all;}#elementor-popup-modal-2283 .dialog-message{width:300px;height:100vh;align-items:flex-start;}#elementor-popup-modal-2283 .dialog-close-button{display:flex;}@media(max-width:767px){.elementor-2283 .elementor-element.elementor-element-03b9c21 .elementor-nav-menu--dropdown .elementor-item, .elementor-2283 .elementor-element.elementor-element-03b9c21 .elementor-nav-menu--dropdown  .elementor-sub-item{font-size:15px;}}
