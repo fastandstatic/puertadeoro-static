@@ -262,22 +262,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/2-normativa</loc>
-		<lastmod>2024-11-28T17:00:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/3-contratacion</loc>
-		<lastmod>2024-11-28T17:01:23+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/7-datos-abiertos</loc>
-		<lastmod>2024-11-28T17:09:53+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/8-control-interno</loc>
-		<lastmod>2024-11-28T17:10:39+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/servicios</loc>
 		<lastmod>2024-11-29T19:34:11+00:00</lastmod>
 	</url>
@@ -382,74 +366,90 @@
 		<lastmod>2024-12-06T21:26:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/4-planeacion-presupuesto-e-informes</loc>
-		<lastmod>2025-01-27T14:54:49+00:00</lastmod>
+		<loc>/1-informacion-de-la-entidad</loc>
+		<lastmod>2025-01-28T20:46:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Estructura-Organizativa-Dependencias-06-2024-IV-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Grupo-1000.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-127-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-128.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-126-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/06/Estructura-Organizativa-Dependencias-06-2024-IV-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Grupo-1000.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-127-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-128.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-126-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/2-normativa</loc>
+		<lastmod>2025-01-28T20:47:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/3-contratacion</loc>
+		<lastmod>2025-01-28T20:49:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/7-datos-abiertos</loc>
+		<lastmod>2025-01-28T21:30:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/8-control-interno</loc>
+		<lastmod>2025-01-28T21:33:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/5-tramites</loc>
-		<lastmod>2025-01-27T14:54:55+00:00</lastmod>
+		<lastmod>2025-01-28T21:56:03+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/4-planeacion-presupuesto-e-informes</loc>
+		<lastmod>2025-01-28T22:07:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/6-participa</loc>
-		<lastmod>2025-01-27T15:42:39+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/1-informacion-de-la-entidad</loc>
-		<lastmod>2025-01-27T16:11:47+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/Estructura-Organizativa-Dependencias-06-2024-IV-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Grupo-1000.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-127-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-128.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-126-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/06/Estructura-Organizativa-Dependencias-06-2024-IV-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Grupo-1000.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-127-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-128.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-126-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-3.jpg</image:loc>
-		</image:image>
+		<lastmod>2025-01-28T22:07:55+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
