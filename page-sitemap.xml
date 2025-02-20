@@ -2,24 +2,123 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-11-29T19:32:32+00:00</lastmod>
+		<lastmod>2025-02-19T14:06:14+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-128.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-127-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Enmascarar-grupo-126-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/subarashi.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/tcl.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/triple-a.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/turismerk.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/uni-simon.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/willy.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/canteras-munarriz.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/casaval.jpg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-126.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-127.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/cea.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/ciledco.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/clena.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/coacosta.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/consorcio-abuchaibe.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/corpacero.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/cotelco.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/digiprint.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/equinorte.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/euromarmol.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/eventos-y-sistemas.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-128.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-126.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/fondo-garantias-del-caribe.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/hotel-country.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/jaller-viajes.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/laboratorio-continental.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/monomeros.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/nobel.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/palmeras-de-la-costa.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/portmagdalena.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/porto-cia.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/probarranquilla.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/procaps.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/puerto-de-quilla.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/rocol.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/sos.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-127.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-128.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -262,10 +361,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/servicios</loc>
-		<lastmod>2024-11-29T19:34:11+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/gran-malecon</loc>
 		<lastmod>2024-12-06T20:53:40+00:00</lastmod>
 		<image:image>
@@ -316,10 +411,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/proyectos</loc>
-		<lastmod>2024-12-06T21:26:30+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/2-normativa</loc>
 		<lastmod>2025-01-28T20:47:57+00:00</lastmod>
 	</url>
@@ -346,52 +437,6 @@
 	<url>
 		<loc>/4-planeacion-presupuesto-e-informes</loc>
 		<lastmod>2025-02-03T18:18:58+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/nosotros</loc>
-		<lastmod>2025-02-03T20:36:04+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-131.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-133.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-132.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-134.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-135.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Copia-de-DJI_0750.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/puerta_de_oro.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Linea-47.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-126.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-127.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-128.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-126.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-127.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-128.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/1-informacion-de-la-entidad</loc>
@@ -450,6 +495,57 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Componente-78-%E2%80%93-3.jpg</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>/proyectos</loc>
+		<lastmod>2025-02-18T22:23:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/nosotros</loc>
+		<lastmod>2025-02-19T14:21:49+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-131.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-133.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-132.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-134.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-135.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/puerta_de_oro.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Linea-47.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-126.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-127.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-128.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-126.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-127.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/Enmascarar-grupo-128.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/servicios</loc>
+		<lastmod>2025-02-19T14:24:42+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
