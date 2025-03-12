@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/noticias</loc>
-		<lastmod>2024-11-26T20:20:44+00:00</lastmod>
+		<lastmod>2025-03-12T20:03:30+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/estados-financieros-a-corte-31-de-diciembre-de-2023</loc>
@@ -23,6 +23,13 @@
 		<lastmod>2024-11-26T20:20:44+00:00</lastmod>
 		<image:image>
 			<image:loc>https://puertadeoro-recursos-pagina-web.s3.amazonaws.com/wp-content/uploads/2024/03/26201924/BDO-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/invitacion-expresion-de-interes-proyecto-basura-marina</loc>
+		<lastmod>2025-03-12T20:03:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://puertadeoro-recursos-pagina-web.s3.amazonaws.com/wp-content/uploads/2025/03/12195933/pollution-concept-water-with-garbage-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
