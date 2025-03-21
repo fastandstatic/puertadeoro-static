@@ -40,4 +40,10 @@
 	font-display: auto;
 	src: url('/wp-content/uploads/2023/08/Gilroy-Extrabold.ttf') format('truetype');
 }
+/* End Custom Fonts CSS */ly: 'Gilroy';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('/wp-content/uploads/2023/08/Gilroy-Extrabold.ttf') format('truetype');
+}
 /* End Custom Fonts CSS */
