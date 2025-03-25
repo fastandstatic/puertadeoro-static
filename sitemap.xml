@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://puertadeoro.fastandstatic.com/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/post-sitemap.xml</loc>
+		<loc>https://puertadeoro.fastandstatic.com/post-sitemap.xml</loc>
 		<lastmod>2025-03-14T13:41:58+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
-		<lastmod>2025-03-21T21:47:25+00:00</lastmod>
+		<loc>https://puertadeoro.fastandstatic.com/page-sitemap.xml</loc>
+		<lastmod>2025-03-25T20:25:42+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/nuestro-impacto-sitemap.xml</loc>
+		<loc>https://puertadeoro.fastandstatic.com/nuestro-impacto-sitemap.xml</loc>
 		<lastmod>2024-12-20T20:02:14+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/category-sitemap.xml</loc>
+		<loc>https://puertadeoro.fastandstatic.com/category-sitemap.xml</loc>
 		<lastmod>2025-03-14T13:41:58+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/author-sitemap.xml</loc>
+		<loc>https://puertadeoro.fastandstatic.com/author-sitemap.xml</loc>
 		<lastmod>2024-12-09T15:58:34+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
