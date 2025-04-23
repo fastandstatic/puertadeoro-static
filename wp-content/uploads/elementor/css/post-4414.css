@@ -6,46 +6,4 @@
 					.elementor-widget-nav-menu .e--pointer-framed .elementor-item:after{border-color:var( --e-global-color-accent );}.elementor-widget-nav-menu{--e-nav-menu-divider-color:var( --e-global-color-text );}.elementor-widget-nav-menu .elementor-nav-menu--dropdown .elementor-item, .elementor-widget-nav-menu .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-4414 .elementor-element.elementor-element-45ceafc4{width:100%;max-width:100%;--e-nav-menu-horizontal-menu-item-margin:calc( 0px / 2 );}.elementor-4414 .elementor-element.elementor-element-45ceafc4 .elementor-nav-menu .elementor-item{font-family:"Gilroy", Sans-serif;font-size:16px;font-weight:400;line-height:28px;}.elementor-4414 .elementor-element.elementor-element-45ceafc4 .elementor-nav-menu--main .elementor-item{color:#6D6E71;fill:#6D6E71;padding-top:20px;padding-bottom:20px;}.elementor-4414 .elementor-element.elementor-element-45ceafc4 .elementor-nav-menu--main .elementor-item:hover,
 					.elementor-4414 .elementor-element.elementor-element-45ceafc4 .elementor-nav-menu--main .elementor-item.elementor-item-active,
 					.elementor-4414 .elementor-element.elementor-element-45ceafc4 .elementor-nav-menu--main .elementor-item.highlighted,
-					.elementor-4414 .elementor-element.elementor-element-45ceafc4 .elementor-nav-menu--main .elementor-item:focus{color:var( --e-global-color-primary );fill:var( --e-global-color-primary );}.elementor-4414 .elementor-element.elementor-element-45ceafc4 .elementor-nav-menu--main .elementor-item.elementor-item-active{color:var( --e-global-color-primary );}.elementor-4414 .elementor-element.elementor-element-45ceafc4 .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu > li:not(:last-child){margin-bottom:0px;}.elementor-4414 .elementor-element.elementor-element-45ceafc4 .elementor-nav-menu--dropdown{border-style:none;}.elementor-4414 .elementor-element.elementor-element-45ceafc4 .elementor-nav-menu--dropdown li:not(:last-child){border-style:none;border-bottom-width:2px;}.elementor-4414 .elementor-element.elementor-element-45ceafc4 .elementor-nav-menu--main > .elementor-nav-menu > li > .elementor-nav-menu--dropdown, .elementor-4414 .elementor-element.elementor-element-45ceafc4 .elementor-nav-menu__container.elementor-nav-menu--dropdown{margin-top:10px !important;}/* Start Custom Fonts CSS */@font-face {
-	font-family: 'Gilroy';
-	font-style: normal;
-	font-weight: normal;
-	font-display: auto;
-	src: url('/wp-content/uploads/2023/08/Gilroy-Regular.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'Gilroy';
-	font-style: normal;
-	font-weight: bold;
-	font-display: auto;
-	src: url('/wp-content/uploads/2023/08/Gilroy-Bold.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'Gilroy';
-	font-style: normal;
-	font-weight: 600;
-	font-display: auto;
-	src: url('/wp-content/uploads/2023/08/Gilroy-Semibold.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'Gilroy';
-	font-style: normal;
-	font-weight: 500;
-	font-display: auto;
-	src: url('/wp-content/uploads/2023/08/Gilroy-Medium.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'Gilroy';
-	font-style: normal;
-	font-weight: 300;
-	font-display: auto;
-	src: url('/wp-content/uploads/2023/08/Gilroy-Light.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'Gilroy';
-	font-style: normal;
-	font-weight: 800;
-	font-display: auto;
-	src: url('/wp-content/uploads/2023/08/Gilroy-Extrabold.ttf') format('truetype');
-}
-/* End Custom Fonts CSS */
+					.elementor-4414 .elementor-element.elementor-element-45ceafc4 .elementor-nav-menu--main .elementor-item:focus{color:var( --e-global-color-primary );fill:var( --e-global-color-primary );}.elementor-4414 .elementor-element.elementor-element-45ceafc4 .elementor-nav-menu--main .elementor-item.elementor-item-active{color:var( --e-global-color-primary );}.elementor-4414 .elementor-element.elementor-element-45ceafc4 .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu > li:not(:last-child){margin-bottom:0px;}.elementor-4414 .elementor-element.elementor-element-45ceafc4 .elementor-nav-menu--dropdown{border-style:none;}.elementor-4414 .elementor-element.elementor-element-45ceafc4 .elementor-nav-menu--dropdown li:not(:last-child){border-style:none;border-bottom-width:2px;}.elementor-4414 .elementor-element.elementor-element-45ceafc4 .elementor-nav-menu--main > .elementor-nav-menu > li > .elementor-nav-menu--dropdown, .elementor-4414 .elementor-element.elementor-element-45ceafc4 .elementor-nav-menu__container.elementor-nav-menu--dropdown{margin-top:10px !important;}
